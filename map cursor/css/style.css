@@ -1,0 +1,23 @@
+
+
+
+
+  
+  html, body {
+		height: 100%;
+		
+		
+	  
+cursor: url(https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/128/Map-Marker-Marker-Outside-Pink.png) 25 15, auto;
+	
+  }
+  body {
+	  height: 100%;
+	  width: 100%;
+	  display: table;
+	  text-align:center; 
+	  font:400 17px Arial; 
+	  background-color:#43ce6d; 
+  }
+  
+  
